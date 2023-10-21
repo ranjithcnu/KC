@@ -1,6 +1,6 @@
 "# KC" 
 prequities :  Node js
-              React js
+              React Native
               Python
               Mysql or any Database 
 Configure the Project in any IDE.
