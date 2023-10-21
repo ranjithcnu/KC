@@ -25,10 +25,10 @@ def log_request():
 
 
 config = {
-    'user': 'cnu',
-    'password': 'Luffyonepiece2023',
-    'host': 'kunduru.cl4jzocaludt.ap-south-1.rds.amazonaws.com',
-    'database': 'kunduru',
+    'user': '',
+    'password': '',
+    'host': '',
+    'database': '',
     'raise_on_warnings': True
 }
 
